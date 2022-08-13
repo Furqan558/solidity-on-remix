@@ -1,7 +1,3 @@
-This is part of the FreeCodeCamp Solidity & Javascript Blockchain Course.
-
-_[⌨️ (03:05:34) Lesson 3: Remix Storage Factory](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=11134s)_
-
 ## Getting Started
 
 1. Go to [Remix](https://remix.ethereum.org/)
